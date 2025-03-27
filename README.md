@@ -2,7 +2,7 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://blog.csdn.net/2303_79299383?type=blog">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=(%22Hello%2C%20World%22);原来浮生万物里,所有的重逢都不如相遇!&center=true&size=27" />
     </a>
   </div>
@@ -49,7 +49,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/nwt-q/count.svg)th
 ---
 
 <!-- 贪吃蛇 -->
-![](https://raw.githubusercontent.com/nwt-q/nwt-q/refs/heads/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/nwt-q/EvLast/refs/heads/output/github-contribution-grid-snake.svg)
 
 
 ### Skills
