@@ -3,11 +3,11 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://blog.csdn.net/2303_79299383?type=blog">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=(%22Hello%2C%20World%22);原来浮生万物里,所有的重逢都不如相遇!&center=true&size=27" />
+      <img src="./static/HelloWord.svg" />
     </a>
   </div>
 </div>
-  ---
+---
 
 <!--
 **shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -100,7 +100,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/nwt-q/count.svg)th
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
+
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
