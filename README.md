@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/nwt-q/count.svg)th visitor
+You are my ![](https://komarev.com/ghpvc/?username=nwt-q&color=green) th visitor
 
 
 ---
