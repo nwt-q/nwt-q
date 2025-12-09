@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - :sun_with_face: Highlights of my successful endeavors.
 
 <a href="https://blog.csdn.net/2303_79299383?spm=1010.2135.3001.5343">
-    <img src="https://img.shields.io/badge/CSDN Page View-164K-E65A65.svg" alt="" title="EvLast的csdn" />
+    <img src="https://img.shields.io/badge/CSDN Page View-191K-E65A65.svg" alt="" title="EvLast的csdn" />
 </a>
 <a href="https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b"><img src="https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg" alt="Total time coded since Jan 4 2021" /></a>
 <br/>
@@ -61,7 +61,7 @@ You are my ![](https://komarev.com/ghpvc/?username=nwt-q&color=green) th visitor
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=nwt-q&abbreviated=true&color=yellow" />
-<a href="https://evLast.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-EvLast-red" /></a>
+<a href="https://blog.csdn.net/2303_79299383?type=blog"><img src="https://img.shields.io/badge/CSDN-EvLast-red" /></a>
 <img src="https://img.shields.io/badge/QQ-3178146280-green?logo=tencentqq" />
 <img href="mailto:3178146280@qq.com" src="https://img.shields.io/badge/3178146280@qq.com-D14836?logo=qq&logoColor=white" />
 </p>
