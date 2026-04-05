@@ -132,17 +132,6 @@ You are my ![](https://komarev.com/ghpvc/?username=nwt-q&color=green) th visitor
 
 ### About My Github
 <div align="center">
-  <table style="width:100%;">
-    <tr>
-      <!-- 第一个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=nwt-q&show_icons=true" />
-      </td>
-      <!-- 第二个图片 -->
-      <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwt-q&layout=compact" />
-      </td>
-    </tr>
     <!-- 第三个图片 -->
     <tr>
       <td colspan="2" align="center">
@@ -155,30 +144,30 @@ You are my ![](https://komarev.com/ghpvc/?username=nwt-q&color=green) th visitor
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
+
 <div align="center" >
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
 
 <!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=%E4%B8%80%E8%A1%8C%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%BB%B6%E5%B1%95%E6%80%9D%E6%83%B3%E8%BE%B9%E7%95%8C%EF%BC%9B%E4%B8%80%E6%AC%A1%E6%AC%A1%E8%B0%83%E8%AF%95%EF%BC%8C%E7%B2%BE%E8%BF%9B%E8%AE%A4%E7%9F%A5%E6%B7%B1%E5%BA%A6%E3%80%82" /><br/></div>
 
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> -->
 
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<!-- <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> -->
 
 <!-- GitHub metrics 信息指标 -->
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
-
+<!-- <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /> -->
 
 ---
 
