@@ -23,8 +23,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
-  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+<a href="https://img-blog.csdnimg.cn/2019122617442217.gif" 
+   style="display: inline-block; border-radius: 20px; overflow: hidden;">
+  <img align="right" 
+       alt="jpg" 
+       src="https://avatars.githubusercontent.com/u/143036993?v=4" 
+       width="240"
+       style="display: block;">
 </a>
 
 ### Hello World!  I am <b>EvLast<a target="_blank" href="javascript:;"></a></b>
@@ -46,10 +51,6 @@ You are my ![](https://komarev.com/ghpvc/?username=nwt-q&color=green) th visitor
 
 
 ---
-
-<!-- 贪吃蛇 -->
-![](https://raw.githubusercontent.com/yxn4065/yxn4065/refs/heads/output/github-contribution-grid-snake.svg)
-
 
 ### Skills
 <p align="center">
@@ -115,17 +116,19 @@ You are my ![](https://komarev.com/ghpvc/?username=nwt-q&color=green) th visitor
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<br>
+<table><tr>
+<td><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp" /></td>
+<td><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp" /></td>
+<td><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp" /></td>
+<td><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp" /></td>
+<td><img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp" /></td>
+<td><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp" /></td>
+<td><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp"/></td>
+<td><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp"/></td>
+</tr></table>
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 </div>
 
 ---
